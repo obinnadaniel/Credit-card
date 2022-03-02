@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "karma": "^4.4.1",
+    "karma": "^6.3.16",
     "node-sass": "^4.13.1",
     "react": "^16.10.2",
     "react-credit-cards": "^0.8.0",
